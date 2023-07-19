@@ -1,1 +1,1 @@
-# electron_app
+# electron_sample_app
